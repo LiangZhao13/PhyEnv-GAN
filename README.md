@@ -20,7 +20,7 @@ This research integrates environmental factors into trajectory modeling. It feat
 ├── data.py        # Dataset loading and preprocessing logic
 ├── utils.py       # Math tools (Haversine, DTW) and Physics Loss functions
 └── README.md      # Project documentation
-
+```
 ## 📊 Data Requirements
 
 To run this model, you need to prepare your own AIS dataset. The code includes a strict validation step to ensure the data format matches the model's input requirements.
