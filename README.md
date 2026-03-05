@@ -1,10 +1,10 @@
-# Trajectory cGAN with Physics-Informed Motion Constraints & Wave Conditioning
+# PhyEnv-Gan
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-ee4c2c)](https://pytorch.org/)
 
-A PyTorch implementation of a **Conditional Generative Adversarial Network (cGAN)** for maritime vessel trajectory reconstruction and generation. 
+A PyTorch implementation of a **PhyEnv-Gan** for maritime vessel trajectory reconstruction and generation. 
 
 This research integrates environmental factors into trajectory modeling. It features:
 1.  **Deep Learning Core:** An LSTM-based CVAE Generator paired with a TCN (Temporal Convolutional Network) Discriminator.
